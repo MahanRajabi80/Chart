@@ -1,0 +1,9 @@
+C:\Users\M-H Computer\Desktop\Example 20-14\Example 20-14\bin\Debug\Example 20-14.exe
+C:\Users\M-H Computer\Desktop\Example 20-14\Example 20-14\bin\Debug\Example 20-14.pdb
+C:\Users\M-H Computer\Desktop\Example 20-14\Example 20-14\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\M-H Computer\Desktop\Example 20-14\Example 20-14\obj\x86\Debug\Example_20_14.Form1.resources
+C:\Users\M-H Computer\Desktop\Example 20-14\Example 20-14\obj\x86\Debug\Example_20_14.Properties.Resources.resources
+C:\Users\M-H Computer\Desktop\Example 20-14\Example 20-14\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\M-H Computer\Desktop\Example 20-14\Example 20-14\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\M-H Computer\Desktop\Example 20-14\Example 20-14\obj\x86\Debug\Example 20-14.exe
+C:\Users\M-H Computer\Desktop\Example 20-14\Example 20-14\obj\x86\Debug\Example 20-14.pdb
